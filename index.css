@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding-left: 121px;
+  color: #000;
+  font-family: Roboto Slab;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 101.385%;
+  width: 365px;
+  height: 93px;
+}
+
+.text1 {
+  display: flex;
+  padding: 18px 0px 95px 121px;
+}
+
+.text1 p {
+  color: #000;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  width: 662px;
+  height: 374px;
+}
+
+.text1 img {
+  width: 314px;
+  height: 315px;
+  margin-left: 153px;
+}
+
+.text2 {
+  padding: 94px 0 178px 121px;
+  display: flex;
+}
+
+.text2 img {
+  margin-right: 132px;
+  width: 232px;
+  height: 203px;
+}
+
+.text2 h3 {
+  margin-right: 95px;
+  width: 150px;
+  height: 39px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+}
+
+.text2 p {
+  width: 150px;
+  height: 39px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+}
+
+@media screen and (max-width: 1024px) {
+
+h1{
+    width: 211.396px;
+    height: 53.863px;
+    
+
+
+}
+
+}
+
+
+
+
